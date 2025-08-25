@@ -1,14 +1,14 @@
-#IA340 Data Analytics Repository
+# IA340 Data Analytics Repository
 
-## Purpose
+##  Purpose
 This repository contains code, notebooks, and data related to coursework in **IA 340: Data Mining, Modeling, and Knowledge Discovery in Databases** at James Madison University. The goal is to demonstrate data analytics skills.
 
-##Contents
+##   Contents
 - Jupyter notebooks
 - Python Scripts
 - Lab Submissions
 - Project Documentation
 
-  ##Contact
+  ##    Contact
   Samuel Strawn
   strawnsc@dukes.jmu.edu 
